@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Projeto Formar\ExemplosHeranca\ExemplosHeranca\bin\Debug\ExemplosHeranca.exe.config
+C:\Users\user\Desktop\Projeto Formar\ExemplosHeranca\ExemplosHeranca\obj\Debug\ExemplosHeranca.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Projeto Formar\ExemplosHeranca\ExemplosHeranca\bin\Debug\ExemplosHeranca.exe
+C:\Users\user\Desktop\Projeto Formar\ExemplosHeranca\ExemplosHeranca\bin\Debug\ExemplosHeranca.pdb
+C:\Users\user\Desktop\Projeto Formar\ExemplosHeranca\ExemplosHeranca\obj\Debug\ExemplosHeranca.exe
+C:\Users\user\Desktop\Projeto Formar\ExemplosHeranca\ExemplosHeranca\obj\Debug\ExemplosHeranca.pdb
+E:\Projeto Formar\ExemplosHeranca\ExemplosHeranca\bin\Debug\ExemplosHeranca.exe.config
+E:\Projeto Formar\ExemplosHeranca\ExemplosHeranca\obj\Debug\ExemplosHeranca.exe
+E:\Projeto Formar\ExemplosHeranca\ExemplosHeranca\obj\Debug\ExemplosHeranca.pdb
+E:\Projeto Formar\ExemplosHeranca\ExemplosHeranca\bin\Debug\ExemplosHeranca.exe
+E:\Projeto Formar\ExemplosHeranca\ExemplosHeranca\bin\Debug\ExemplosHeranca.pdb
