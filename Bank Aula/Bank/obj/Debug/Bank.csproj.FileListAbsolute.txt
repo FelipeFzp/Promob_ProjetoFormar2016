@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2015\Projects\Bank\Bank\bin\Debug\Bank.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Bank\Bank\bin\Debug\Bank.exe
+c:\users\user\documents\visual studio 2015\Projects\Bank\Bank\bin\Debug\Bank.pdb
+c:\users\user\documents\visual studio 2015\Projects\Bank\Bank\obj\Debug\Bank.exe
+c:\users\user\documents\visual studio 2015\Projects\Bank\Bank\obj\Debug\Bank.pdb
+c:\users\user\documents\visual studio 2015\Projects\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Projeto Formar\Bank Aula\Bank\bin\Debug\Bank.exe.config
+C:\Users\user\Desktop\Projeto Formar\Bank Aula\Bank\obj\Debug\Bank.exe
+C:\Users\user\Desktop\Projeto Formar\Bank Aula\Bank\obj\Debug\Bank.pdb
+C:\Users\user\Desktop\Projeto Formar\Bank Aula\Bank\bin\Debug\Bank.exe
+C:\Users\user\Desktop\Projeto Formar\Bank Aula\Bank\bin\Debug\Bank.pdb
+D:\Projeto Formar\Bank Aula\Bank\bin\Debug\Bank.exe.config
+D:\Projeto Formar\Bank Aula\Bank\obj\Debug\Bank.exe
+D:\Projeto Formar\Bank Aula\Bank\obj\Debug\Bank.pdb
+E:\Projeto Formar\Bank Aula\Bank\bin\Debug\Bank.exe.config
+E:\Projeto Formar\Bank Aula\Bank\obj\Debug\Bank.exe
+E:\Projeto Formar\Bank Aula\Bank\obj\Debug\Bank.pdb
