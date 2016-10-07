@@ -1,0 +1,14 @@
+c:\users\promob\documents\visual studio 2015\Projects\ExamplesXml\ExamplesXml\bin\Debug\ExamplesXml.exe.config
+c:\users\promob\documents\visual studio 2015\Projects\ExamplesXml\ExamplesXml\bin\Debug\ExamplesXml.exe
+c:\users\promob\documents\visual studio 2015\Projects\ExamplesXml\ExamplesXml\bin\Debug\ExamplesXml.pdb
+c:\users\promob\documents\visual studio 2015\Projects\ExamplesXml\ExamplesXml\obj\Debug\ExamplesXml.csprojResolveAssemblyReference.cache
+c:\users\promob\documents\visual studio 2015\Projects\ExamplesXml\ExamplesXml\obj\Debug\ExamplesXml.exe
+c:\users\promob\documents\visual studio 2015\Projects\ExamplesXml\ExamplesXml\obj\Debug\ExamplesXml.pdb
+C:\Users\promob\Documents\Visual Studio 2015\Projects\ExamplesXml\ExamplesXml\obj\Debug\ExamplesXml.Form1.resources
+C:\Users\promob\Documents\Visual Studio 2015\Projects\ExamplesXml\ExamplesXml\obj\Debug\ExamplesXml.csproj.GenerateResource.Cache
+E:\ExamplesXml\ExamplesXml\bin\Debug\ExamplesXml.exe.config
+E:\ExamplesXml\ExamplesXml\obj\Debug\ExamplesXml.exe
+E:\ExamplesXml\ExamplesXml\obj\Debug\ExamplesXml.pdb
+E:\Promob\ExamplesXml\ExamplesXml\bin\Debug\ExamplesXml.exe.config
+E:\Promob\ExamplesXml\ExamplesXml\obj\Debug\ExamplesXml.exe
+E:\Promob\ExamplesXml\ExamplesXml\obj\Debug\ExamplesXml.pdb

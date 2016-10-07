@@ -127,6 +127,7 @@ namespace ExemploColecao
         public void ExemplosLinq()
         {
             var newList = _objetos.Where(x => x.Descricao == "Objeto"); //retorna os itens da lista que tem a descriação "Objeto"
+            var novalista = _objetos.Where(x => x.Id == 5);
 
             var newListCar3 = _objetos.Max(x => x.Id); //retorna o item da lista que tem o maior id
             var newListCar4 = _objetos.Last();  //retorna o último item da lista. ERRO se a lista estiver vazia

@@ -1,0 +1,9 @@
+c:\users\promob\documents\visual studio 2015\Projects\ExemploEnumerador\ExemploEnumerador\bin\Debug\ExemploEnumerador.exe.config
+c:\users\promob\documents\visual studio 2015\Projects\ExemploEnumerador\ExemploEnumerador\bin\Debug\ExemploEnumerador.exe
+c:\users\promob\documents\visual studio 2015\Projects\ExemploEnumerador\ExemploEnumerador\bin\Debug\ExemploEnumerador.pdb
+c:\users\promob\documents\visual studio 2015\Projects\ExemploEnumerador\ExemploEnumerador\obj\Debug\ExemploEnumerador.csprojResolveAssemblyReference.cache
+c:\users\promob\documents\visual studio 2015\Projects\ExemploEnumerador\ExemploEnumerador\obj\Debug\ExemploEnumerador.exe
+c:\users\promob\documents\visual studio 2015\Projects\ExemploEnumerador\ExemploEnumerador\obj\Debug\ExemploEnumerador.pdb
+C:\Users\felip\Desktop\Felipe\Café e suas Variaveis\GitHub\ExemploEnumerador\ExemploEnumerador\bin\Debug\ExemploEnumerador.exe.config
+C:\Users\felip\Desktop\Felipe\Café e suas Variaveis\GitHub\ExemploEnumerador\ExemploEnumerador\obj\Debug\ExemploEnumerador.exe
+C:\Users\felip\Desktop\Felipe\Café e suas Variaveis\GitHub\ExemploEnumerador\ExemploEnumerador\obj\Debug\ExemploEnumerador.pdb

@@ -1,0 +1,5 @@
+<Pessoas>
+  <Pessoa Nome="Felipe" Idade="19" Salario="Desempregado" />
+  <Pessoa Nome="Felipes" Idade="19dsfg" Salario="Desdgsempregado" />
+  <Funcionario Nome="Igor" Idade="22" Salario="850.00" />
+</Pessoas>

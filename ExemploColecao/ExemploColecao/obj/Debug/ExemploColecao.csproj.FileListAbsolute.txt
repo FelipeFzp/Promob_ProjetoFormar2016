@@ -1,0 +1,6 @@
+C:\Users\felip\Desktop\Felipe\Café e suas Variaveis\GitHub\Promob_ProjetoFormar2016\ExemploColecao\ExemploColecao\bin\Debug\ExemploColecao.exe.config
+C:\Users\felip\Desktop\Felipe\Café e suas Variaveis\GitHub\Promob_ProjetoFormar2016\ExemploColecao\ExemploColecao\bin\Debug\ExemploColecao.exe
+C:\Users\felip\Desktop\Felipe\Café e suas Variaveis\GitHub\Promob_ProjetoFormar2016\ExemploColecao\ExemploColecao\bin\Debug\ExemploColecao.pdb
+C:\Users\felip\Desktop\Felipe\Café e suas Variaveis\GitHub\Promob_ProjetoFormar2016\ExemploColecao\ExemploColecao\obj\Debug\ExemploColecao.csprojResolveAssemblyReference.cache
+C:\Users\felip\Desktop\Felipe\Café e suas Variaveis\GitHub\Promob_ProjetoFormar2016\ExemploColecao\ExemploColecao\obj\Debug\ExemploColecao.exe
+C:\Users\felip\Desktop\Felipe\Café e suas Variaveis\GitHub\Promob_ProjetoFormar2016\ExemploColecao\ExemploColecao\obj\Debug\ExemploColecao.pdb
